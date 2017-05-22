@@ -1,8 +1,8 @@
 import Layout from '../components/MyLayout.js'
-import AboutComp from '../components/AboutComp.js';
+import LoadEachData from '../components/LoadEachData.js';
 
 export default () => (
     <Layout>
-       <AboutComp></AboutComp>
+       <LoadEachData></LoadEachData>
     </Layout>
 )

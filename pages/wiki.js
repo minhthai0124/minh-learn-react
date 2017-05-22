@@ -1,8 +1,8 @@
 import Layout from '../components/MyLayout.js'
-import AboutComp from '../components/AboutComp.js';
+import WikiList from '../components/wiki/WikiList.js';
 
 export default () => (
     <Layout>
-       <AboutComp></AboutComp>
+       <WikiList></WikiList>
     </Layout>
 )
